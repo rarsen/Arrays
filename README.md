@@ -30,4 +30,7 @@ To run the application, follow these steps:
 - Open the solution in Visual Studio Code or your preferred C# IDE.
 - Build the solution.
 - Run the .cs file.
+### Example of the output
+<img width="265" alt="Снимок экрана 2024-04-14 в 15 34 38" src="https://github.com/rarsen/Arrays/assets/100610615/6c959e54-d339-4022-b869-c701354678a6">
 
+)
