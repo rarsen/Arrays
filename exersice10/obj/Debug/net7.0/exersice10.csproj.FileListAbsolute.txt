@@ -1,0 +1,28 @@
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/bin/Debug/net7.0/exersice10
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/bin/Debug/net7.0/exersice10.deps.json
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/bin/Debug/net7.0/exersice10.runtimeconfig.json
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/bin/Debug/net7.0/exersice10.dll
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/bin/Debug/net7.0/exersice10.pdb
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/exersice10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/exersice10.AssemblyInfoInputs.cache
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/exersice10.AssemblyInfo.cs
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/exersice10.csproj.CoreCompileInputs.cache
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/exersice10.dll
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/refint/exersice10.dll
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/exersice10.pdb
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/exersice10.genruntimeconfig.cache
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/exersice10/exersice10/obj/Debug/net7.0/ref/exersice10.dll
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/bin/Debug/net7.0/exersice10
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/bin/Debug/net7.0/exersice10.deps.json
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/bin/Debug/net7.0/exersice10.runtimeconfig.json
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/bin/Debug/net7.0/exersice10.dll
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/bin/Debug/net7.0/exersice10.pdb
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/exersice10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/exersice10.AssemblyInfoInputs.cache
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/exersice10.AssemblyInfo.cs
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/exersice10.csproj.CoreCompileInputs.cache
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/exersice10.dll
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/refint/exersice10.dll
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/exersice10.pdb
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/exersice10.genruntimeconfig.cache
+/Users/arsenflorykian/Desktop/Vistula Labs/Introduction to programing/First semester/exersice10/exersice10/obj/Debug/net7.0/ref/exersice10.dll
