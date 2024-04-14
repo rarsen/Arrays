@@ -10,7 +10,7 @@ This repository contains a C# console application that demonstrates various arra
 - Task 2: Reversing an Array
 - Task 3: Calculating Sum of Array Elements
 - Usage
-- Description
+
 
 This C# console application showcases the implementation of basic array operations such as finding the maximum element, reversing the array, and calculating the sum of array elements.
 
